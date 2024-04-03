@@ -3,7 +3,7 @@
 The “RRAlves Hidden Frontpage” plugin provides a straightforward and efficient solution for WordPress users who wish to control the visibility of their posts on the site’s home page. Through an intuitive interface within the post editing area, this plugin enables authors to easily mark which posts should be hidden from the home page, adding an extra layer of flexibility to content management.
 Features and Operation
 
-[https://rralves.dev.br/wp-content/uploads/2024/04/image.png](https://rralves.dev.br/wp-content/uploads/2024/04/image.png)
+![Enable Hide from Homepage](https://rralves.dev.br/wp-content/uploads/2024/04/image.png)
 
     Custom Meta Box: When an author or editor is working on a post, a new field appears on the side of the editing screen. This area, known as a meta box, contains a checkbox labeled “Hide from homepage.” This option directly determines the visibility of the post on the home page.
     Saving the Checkbox State: Each time a post is saved, the current state of the checkbox is stored as post metadata. This means the visibility preference (to hide or show on the home page) is preserved and can be changed at any time by editing the post and adjusting the checkbox as desired.
